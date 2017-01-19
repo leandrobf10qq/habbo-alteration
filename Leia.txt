@@ -1,0 +1,17 @@
+Desenvolvido por. Leandro ( whats: 61 9>84936862 )
+
+Esta é uma base, não espere codigo pronto.
+
+Nas urls acrecentando o ?usuario= | Ex ( http://localhost/Habbo-cavalo.php?usuario=Malocopo )
+Você consegue puxar o usuario que deseja colocar | Ex: usuario=Fulano
+Com exeção no Balão que precisa colocar cor, fica assim |  Ex ( http://localhost/Habbo-balao.php?usuario=Malocopo&balao=azul )
+Cores :
+Azul,
+Amarelo,
+Caramelo,
+Roxo,
+Verde.
+
+
+Agradeço desde já.
+Deixes credito no php como coment apenas para programadores.
